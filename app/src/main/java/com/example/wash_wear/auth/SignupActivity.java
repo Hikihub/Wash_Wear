@@ -42,7 +42,7 @@ public class SignupActivity extends AppCompatActivity {
             public void onClick(View view) {
 
             }
-        })
+        });
 
 
     }
