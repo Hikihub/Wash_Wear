@@ -44,11 +44,7 @@ public class SignupActivity extends AppCompatActivity {
         loadingBar = new ProgressDialog(this);
 
         //Register button click listener
-        binding.registerButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
 
-            }
         })
 
 
