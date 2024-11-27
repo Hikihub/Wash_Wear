@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457352146003",
+    "project_id": "washwearlaundry-database",
+    "storage_bucket": "washwearlaundry-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457352146003:android:df74d0b7115f626f0f6aa6",
+        "android_client_info": {
+          "package_name": "com.example.wash_wear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjFRGd7EGgpvqjFRiUprN7HULZTrN1-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

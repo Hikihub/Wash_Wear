@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Wash &amp; Wear</string>
+    <string name="tagline">Roach Solutions</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcomeNote">Please login with your information</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcomeRegister">"Please register with your information</string>
+    <string name="Fullname">"Fullname"</string>
+    <string name="Confirmpassword">"Confirm Password"</string>
+    <string name="register_button">Register</string>
+    <string name="Already_have_account">Already have an account?</string>
+    <string name="Click_here">Click here</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="add_service">Add Service</string>
+    <string name="total_orders">Total Orders</string>
+    <string name="active_users">Active Users</string>
+    <string name="view_orders">View Orders</string>
+    <string name="view_feedback">View Feedback</string>
+    <string name="view_service">View Service</string>
+    <string name="logout">Logout</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvv">CVV</string>
+    <string name="cardholder_name">Cardholder Name</string>
+    <string name="save_card_info_for_quick_payment_in_future">Save card info for quick payment in future.</string>
+    <string name="dry_cleaning_service">Dry Cleaning Service</string>
+    <string name="suits">Suits</string>
+    <string name="rs_35_00">Rs. 35.00</string>
+    <string name="blazer">Blazer</string>
+    <string name="rs_45_00">Rs. 45.00</string>
+    <string name="woolen">Woolen</string>
+    <string name="rs_30_00">Rs. 30.00</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="pincode">Pincode</string>
+    <string name="preferred_pickup_time">Preferred Pickup Time</string>
+    <string name="click_to_select_pickup_time">Click to select pickup time</string>
+    <string name="preferred_delivery_time">Preferred Delivery Time</string>
+    <string name="click_to_select_delivery_time">Click to select Delivery time</string>
+    <string name="edit_profile2">Edit Profile</string>
+    <string name="opps">Opps!</string>
+    <string name="sorry_to_see_you_here">Sorry to see you here!</string>
+    <string name="enter_registered_email">Enter Registered Email</string>
+    <string name="request_link">Request Link</string>
+    <string name="iron_service">Iron Service</string>
+    <string name="shirt">Shirt</string>
+    <string name="rs_12_00">Rs. 12.00</string>
+    <string name="payment_option">Payment Option</string>
+    <string name="bank_transfer">Bank Transfer</string>
+    <string name="online_payment">Online Payment</string>
+    <string name="card_payment">Card Payment</string>
+    <string name="cash_on_delivery">Cash on delivery</string>
+    <string name="welcome2">Welcome</string>
+    <string name="please_register_with_your_information">Please register with your Information</string>
+    <string name="complete_profile">Complete Profile</string>
+    <string name="click_to_select_delivery_time2">Click to select Delivery time</string>
+    <string name="preferred_delivery_time2">Preferred Delivery Time</string>
+    <string name="click_to_select_pickup_time2">Click to select pickup time</string>
+    <string name="there_is_no_order_for_now">There is no order for now</string>
+    <string name="view_orders2">View Orders</string>
+    <string name="there_is_no_feedback_for_now">There is no Feedback for now</string>
+    <string name="view_feedback2">View Feedback</string>
+    <string name="wash_and_iron_service">Wash and Iron Service</string>
+    <string name="towel">Towel</string>
+    <string name="rs_15_00">Rs. 15.00</string>
+    <string name="bedsheet">Bedsheet</string>
+    <string name="rs_10_00">Rs. 10.00</string>
+    <string name="pillowcase">Pillowcase</string>
+    <string name="rs_10_002">Rs. 10.00</string>
+    <string name="blanket">Blanket</string>
+    <string name="rs_10_0022">/Rs. 10.00</string>
+    <string name="carpet">Carpet</string>
+    <string name="rs_15_00oo">Rs. 15.00</string>
+    <string name="service_name">Service Name</string>
+    <string name="service_type">Service Type</string>
+    <string name="u20b9">₹</string>
+    <string name="dfgh">/-</string>
+    <string name="total_u20b9">Total: ₹</string>
+    <string name="jjj">/-</string>
+    <string name="feedback">Feedback</string>
+    <string name="user_name">User Name</string>
+    <string name="rating">Rating:</string>
+    <string name="user_email">User Email:</string>
+    <string name="user_phone">User Phone:</string>
+    <string name="order_id">Order ID</string>
+    <string name="order_name">Order Name</string>
+    <string name="order_address">Order Address:</string>
+    <string name="order_date">Order Date:</string>
+    <string name="product_qty">Product Qty:</string>
+    <string name="order_status">Order Status:</string>
+    <string name="service_cloth">Service Cloth</string>
+    <string name="rs_12_0099">Rs. 12.00</string>
+    <string name="service_cloths">Service Cloth</string>
+    <string name="rs_12_00s">Rs. 12.00</string>
+    <string name="_2">2</string>
+    <string name="order_id8">Order ID</string>
+
+
+    <string-array name="service_type">
+        <item>Iron</item>
+        <item>Wash &amp; Fold</item>
+        <item>Wash &amp; Iron </item>
+        <item>Wash &amp; Iron &amp; Fold &amp; Wax</item>
+        <item>Dry Clean</item>
+        <item>Wash &amp; Dry Clean</item>
+        <item>Wash &amp; Dry Clean &amp; Fold</item>
+        <item>Wash &amp; Dry Clean &amp; Fold &amp; Wax</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wash_and_iron">wash and iron</string>
+    <string name="previous">previous</string>
+    <string name="lorem_ipsum">lorem ipsum\n</string>
+    <string name="next">Next\n</string>
+
+
+</resources>
