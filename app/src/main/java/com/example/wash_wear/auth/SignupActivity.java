@@ -18,6 +18,7 @@ public class SignupActivity extends AppCompatActivity {
     private CollectionReference userRef;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
