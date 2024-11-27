@@ -19,6 +19,11 @@ import com.google.firebase.firestore.FirebaseFirestore;
 
 public class SignupActivity extends AppCompatActivity {
 
+    private SignupScreenBinding binding;
+    private ProgressDialog loadingBar;
+    private FirebaseAuth mAuth;
+    private FirebaseFirestore db = FirebaseFirestore.getInstance();
+    private CollectionReference userRef;
 
 
     @Override
@@ -27,6 +32,27 @@ public class SignupActivity extends AppCompatActivity {
 
         //initialize view binding
 
+        binding = SignupScreenBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
+
+
+        //initializing firebaseAuth and Firestore references
+        mAuth = FirebaseAuth.getInstance();
+        userRef = db.collection("users");
+
+        //initializing progress dialog
+        loadingBar = new ProgressDialog(this);
+
+        //Register button click listener
+        binding.registerButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        })
+
+
+                
 
 
     }
